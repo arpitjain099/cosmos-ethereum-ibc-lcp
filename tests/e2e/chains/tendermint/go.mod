@@ -1,6 +1,6 @@
 module github.com/datachainlab/cosmos-ethereum-ibc-lcp/tests/e2e/chains/tendermint
 
-go 1.21
+go 1.21.0
 
 require (
 	cosmossdk.io/api v0.7.3
